@@ -4,7 +4,7 @@ Automated scripts to install and configure cPanel/WHM &amp; Litespeed and Cloudl
 ## How to run?
 
 ```
-curl -Ls https://raw.githubusercontent.com/ismailh/CpanelWHM-PreConfig/main/.conf.sh | bash
+curl -Ls https://raw.githubusercontent.com/csadigital/cPanelAutoConfig/main/.conf.sh | bash
 ```
 ## Include Software?
 > CSF
