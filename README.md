@@ -42,11 +42,11 @@ curl -Ls https://raw.githubusercontent.com/csadigital/cPanelAutoConfig/main/.con
 
 
 ### Database Default Install
-> MariaDB 10.3
+> MariaDB 10.6
 
 ### Default LSWS password you can change.
 * user = admin
-* pass = webhost321
+* pass = csadigital34
 
 ### Standard PHP Settings
 * max_execution_time = 200
@@ -57,7 +57,4 @@ curl -Ls https://raw.githubusercontent.com/csadigital/cPanelAutoConfig/main/.con
 * upload_max_filesize = 100M
 
 
-### Support
-
-Any issue please contact ismail@bluedot.ltd
-https://me.ismail.info/
+ 
